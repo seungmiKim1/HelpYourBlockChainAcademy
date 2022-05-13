@@ -1,8 +1,8 @@
 # HelpYourBlockChainAcademy
-개인 프로젝트 : React를 이용하여 블록체인 티칭 플랫폼 제작
-제작 기간 : 22.05.13 ~ 22.05.31 
-기획 : seungmi Kim(brandy)
-개발 : seungmi Kim(brandy) 
+개인 프로젝트 : React를 이용하여 블록체인 티칭 플랫폼 제작  
+제작 기간 : 22.05.13 ~ 22.05.31   
+기획 : seungmi Kim(brandy)  
+개발 : seungmi Kim(brandy)  
 
 예정 구현 기능 (22.05.13 작성)  
 1. 회원가입 기능 - metamask 연동   
